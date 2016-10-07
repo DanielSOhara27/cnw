@@ -15,3 +15,6 @@ student4 - student
 3) Registry Server
 4) Fortune UI | Fortune Service
 
+#When login into web through command line
+cf login -a <url> --skip-ssl-valid--
+
